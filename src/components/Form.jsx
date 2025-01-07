@@ -176,7 +176,7 @@ function Form() {
           <option value="Graphic Designer">Graphic Designer</option>
           <option value="Sound Engineer">Sound Engineer</option>
           <option value="Light Engineer">Light Engineer</option>
-          <option value="Video Mixer">Video Mixer</option>
+          <option value="Visual Mixer">Visual Mixer</option>
         </select>
 
         <label htmlFor="experience">Experience*</label>
